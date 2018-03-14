@@ -1,5 +1,8 @@
 # JiraDiverseViewTool
 
+>Produces copyright and date that dynamically updates
+
+
 >## Installation
 
 Add this line to your application's Gemfile:
