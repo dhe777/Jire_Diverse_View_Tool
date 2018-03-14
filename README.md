@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-JiraDiverseViewTool::Renderer.copyright 'Dennis Espinoza', 'All rights
+1JiraDiverseViewTool::Renderer.copyright 'Dennis Espinoza', 'All rights
 ```
 ## Development
 
