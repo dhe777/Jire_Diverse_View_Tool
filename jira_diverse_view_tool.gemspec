@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dhe777@comcast.net"]
 
   spec.summary       = %q{Produces copyright and date that dynamically updates}
-  spec.description   = %q{for Portfolio Project}
+  spec.description   = %q{Provides generated HTML data for rails Portfolio Project}
   spec.homepage      = "https://devcamp.com"
   spec.license       = "MIT"
 
